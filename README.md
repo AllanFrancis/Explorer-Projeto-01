@@ -2,12 +2,11 @@
   <img alt="projeto refaturado" src=".github/preview.jpg" width="100%">
 </p>
 <br>
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://allanfrancis.github.io/Explorer-Projeto-01/">Deploy</a>
-</p>
+
+
+## 🎯 Deploy
+Veja o site publicado, [clicando aqui]()
+<br>
 <br>
 
 ## 🚀 Tecnologias
@@ -18,6 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 <br>
 <br>
+
 ## 💻 Projeto
 
 É uma página simples de Móveis Customizados, aonde foi ensinado os  conceitos básicos de uma estrutura HTML.
@@ -26,3 +26,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🔖 Layout
 
 Para visualizar o projeto no figma, basta [clicar aqui](https://www.figma.com/file/sKcov5TgSQKbdt9SQOdg0v/Explorer---Projeto-01-(Copy)?node-id=1%3A2&t=7W6eCamWvIPCCtcH-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
