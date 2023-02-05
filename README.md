@@ -5,7 +5,7 @@
 
 
 ## 🎯 Deploy
-Veja o site publicado, [clicando aqui](https://allanfrancis.github.io/Explorer-Projeto-01/)
+Veja o site publicado [clicando aqui](https://allanfrancis.github.io/Explorer-Projeto-01/).
 <br>
 <br>
 
